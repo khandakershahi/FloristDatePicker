@@ -3,8 +3,8 @@
  * Plugin Name: Florist Date Picker
  * Plugin URI: https://khandakershahi.com/
  * Description: Various WooCommerce enhancements for florists websites.
- * Version: 0.1.25
- * Author: Helal, Randolph, Shahi
+ * Version: 0.1.26
+ * Author: Helal, Randolph, Poalo, Shahi
  * Author URI: https://khandakershahi.com/
  * Text Domain: FloristDatePicker
  *
