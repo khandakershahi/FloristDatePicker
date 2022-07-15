@@ -16,7 +16,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 	exit;
 }
 
-define('FloristDatePicker_PLUGIN_VERSION', '0.1.25');
+define('FloristDatePicker_PLUGIN_VERSION', '0.1.27');
 define('FloristDatePicker_PLUGIN_BASE', plugin_basename(__FILE__));
 define('FloristDatePicker_PLUGIN', __FILE__);
 
